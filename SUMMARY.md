@@ -4,7 +4,7 @@
 
 * [소개하며](README.md)
 * [설치하기](getting-started/publish-your-docs.md)
-* [Hello World!](basic-skills/hello-world.md)
+* [프로젝트 구성 요소](basic-skills/undefined.md)
 
 ## 게시판 만들기 (외전) <a href="#board" id="board"></a>
 
