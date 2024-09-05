@@ -1,11 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+## 기본기 다지기 <a href="#basic-skills" id="basic-skills"></a>
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [소개하며](README.md)
+* [Publish your docs](basic-skills/publish-your-docs.md)
 
 ## Basics
 
